@@ -1,4 +1,4 @@
-IoT Data Pipeline en C++ avec tests
+IoT Data Pipeline en C++ avec tests en utilisant Clion 2025 .v3
 
 Utilisation comme base de projet IoT :: 
 Ce projet fournit un squelette orienté tests pour un pipeline IoT :
